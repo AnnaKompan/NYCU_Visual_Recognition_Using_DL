@@ -26,4 +26,4 @@ Python version used is 3.12.7
 
 ## Performance snapshot
 
-![Performance snapshot](/Performance_snapshot.png)
+[Performance snapshot](/Performance_snapshot.png)
