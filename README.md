@@ -22,7 +22,7 @@ pip install scikit-learn
 ```
 
 Recommend using Conda for version cotrol
-Python version 3.12.7
+Python version used is 3.12.7
 
 ## Performance snapshot
 
