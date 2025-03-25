@@ -1,4 +1,4 @@
-# NYCU Computer Vision 2025 Spring HW1
+# NYCU Visual Recognition Using Deep Learning 2025 Spring HW1
 
 StudentID: 313540009
 Name: Anna Kompan (安娜)
