@@ -8,9 +8,9 @@ Repository Stores Homeworks for Visual Recognition Class
 
 [Howework 1](Homework_1) - Image Classification
 
-![Homework 2] (link) - Object Detection
+[Homework 2](link) - Object Detection
 
-![Homework 3] (link) - Instance Segmentation
+[Homework 3](link) - Instance Segmentation
 
-![Homework 4] (link) - Super-resolution
+[Homework 4](link) - Super-resolution
 
