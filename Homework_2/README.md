@@ -34,4 +34,4 @@ Python version used is 3.11.11
 
 ## Performance snapshot
 
-![Performance snapshot](/Performance_snapshot.png)
+![Performance snapshot](./Performance_snapshot.png)
