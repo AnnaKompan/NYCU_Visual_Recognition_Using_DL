@@ -8,7 +8,7 @@ Repository Stores Homeworks for Visual Recognition Class
 
 [Howework 1](Homework_1) - Image Classification
 
-[Homework 2](link) - Object Detection
+[Homework 2](Homework_2) - Object Detection
 
 [Homework 3](link) - Instance Segmentation
 
