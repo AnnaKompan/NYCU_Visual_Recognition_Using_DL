@@ -12,6 +12,7 @@ Task: Instance Segmentation of colored medical images
 - 'data_loader.py' for pre-processing images and class-specific masks
 - 'utils.py' for encoding masks and showing segmentation results
 - 'codes.ipynb' for training model, plotting training results
+- To lint code 'nbqa' and 'flake8' used
 
 ## How to install
 
@@ -25,6 +26,7 @@ pip install pycocotools
 pip install numpy
 pip install tifffile
 pip isntall notebook
+pip install nbqa flake8
 ```
 
 Recommend using Conda for version cotrol
