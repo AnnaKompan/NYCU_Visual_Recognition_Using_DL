@@ -12,5 +12,6 @@ Repository Stores Homeworks for Visual Recognition Class
 
 [Homework 3](Homework_3) - Instance Segmentation
 
-[⌛..Unavailable..⌛](link) - Super-resolution
+[⌛..Homework 4 - Unavailable..⌛](link) - Super-resolution
 
+[Final Project](Final_Project) - Cell Instance Segmentation
