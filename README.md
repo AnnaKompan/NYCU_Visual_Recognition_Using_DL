@@ -12,6 +12,4 @@ Repository Stores Homeworks for Visual Recognition Class
 
 [Homework 3](Homework_3) - Instance Segmentation
 
-[⌛..Homework 4 - Unavailable..⌛](link) - Image Restoration
-
-[⌛..Final Project - Unavailable..⌛](link) - Cell Instance Segmentation
+[Homework 4](Homework_4) - Image Restoration (rain/snow)
